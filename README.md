@@ -39,4 +39,3 @@ No Operation – When none of the control signals are active.
 All operations: load, hold, shift_left, shift_right, no_operation
 
 
-shift_left and shift_right cannot be 1 together.
